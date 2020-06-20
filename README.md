@@ -30,7 +30,8 @@ This tool converts a given UI screenshot into corresponding React Code with Carb
 
 ![Image 3](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/README_images/gui.PNG)
 
-
+### Weights:
+Download the weights file from [here](https://drive.google.com/drive/folders/1oBwt2feTV2_lOjkPJhri73YYjMvPKPeE?usp=sharing)
 
 ## Acknowledgements
 
