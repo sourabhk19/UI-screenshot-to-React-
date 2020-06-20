@@ -24,7 +24,8 @@ This tool converts a given UI screenshot into corresponding React Code with Carb
 
 - To convert images to NPZ array, use [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/Dsl_to_React.ipynb).
 - Write corresponding GUI file in this way.
-- ![Image 3](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/README_images/gui.PNG)
+
+![Image 3](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/README_images/gui.PNG)
 
 
 
