@@ -1,6 +1,8 @@
    # UI screenshot to React
 
 This tool converts a given UI screenshot into corresponding React Code with Carbon design.
+- The model is a combination of Encoder-Decoder network which is a CNN-LSTM architecture generally used in Image captioning models.
+- CNN is used to extract the components in a given screenshot and LSTM network uses this information to predict the DSL code.
 
 ## Input is a UI screenshot 
 
