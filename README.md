@@ -2,7 +2,7 @@
 
 This tool converts a given UI screenshot into corresponding React Code with Carbon design.
 
-## Input is a UI screenshot ( typically designed by designers ).
+## Input is a UI screenshot .
 
 ![Image 1](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/README_images/z1.png)
 
