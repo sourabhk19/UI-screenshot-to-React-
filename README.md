@@ -1,4 +1,4 @@
-                                                      # UI screenshot to React
+   # UI screenshot to React
 
 This tool converts a given UI screenshot into corresponding React Code with Carbon design.
 
