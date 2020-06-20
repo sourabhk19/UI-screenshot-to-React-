@@ -15,6 +15,7 @@ This tool converts a given UI screenshot into corresponding React Code with Carb
 - Clone the repository.
 - Extract the dataset files.
 - Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Train.ipynb) code for training the dataset by appropriately changing the directory folder names.
+- Once the training is done, model weights will be generated. 
 
 ### Testing:
 
