@@ -12,18 +12,18 @@ This tool converts a given UI screenshot into corresponding React Code with Carb
 
 ### Training Procedure
 
--Clone the repository.
--Extract the dataset files.
--Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Train.ipynb) code for training the dataset by appropriately changing the directory folder names.
+- Clone the repository.
+- Extract the dataset files.
+- Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Train.ipynb) code for training the dataset by appropriately changing the directory folder names.
 
 ### Testing
 
--Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Test.ipynb) code by selecting Test directory
+- Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Test.ipynb) code by selecting Test directory
 
 ### For creating additional dataset:
 
--To convert images to NPZ array, use [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/Dsl_to_React.ipynb).
--Write corresponding GUI file in this way.
+- To convert images to NPZ array, use [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/Dsl_to_React.ipynb).
+- Write corresponding GUI file in this way.
 ![Image 3](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/README_images/gui.PNG)
 
 
