@@ -10,4 +10,4 @@ Output is React Code with Carbon Components.
 
 Acknowledgements
 
-The idea is influenced by Toni Beltramelli's pix2code [paper][https://arxiv.org/abs/1705.07962].
+The idea is influenced by Toni Beltramelli's pix2code [paper](https://arxiv.org/abs/1705.07962).
