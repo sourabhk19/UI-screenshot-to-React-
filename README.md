@@ -18,7 +18,7 @@ This tool converts a given UI screenshot into corresponding React Code with Carb
 
 ### Testing:
 
-- Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Test.ipynb) code by selecting Test directory
+- Run [this](https://github.com/sourabhk19/UI-screenshot-to-React-/blob/master/React_Test.ipynb) code by selecting Test directory and [pretrained model](https://github.com/sourabhk19/UI-screenshot-to-React-/tree/master/pretrained%20models)
 
 ### For creating additional dataset:
 
